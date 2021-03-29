@@ -1,0 +1,14 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color:#f5e8bf;
+}
+.foto-profile {
+  border-radius:50%;
+}
+#project {
+  background-color:#f5e8bf; 
+}
+
+section {
+  padding: 2rem;
+}
