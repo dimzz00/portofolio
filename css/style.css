@@ -1,3 +1,8 @@
+#logo-web {
+  margin-right: 10px;
+  width:40px
+}
+
 .jumbotron {
   padding: 2rem 1rem;
   background-color:#f5e8bf;
@@ -11,4 +16,15 @@
 
 section {
   padding: 2rem;
+}
+
+#skill-stack {
+  padding: 20px;
+}
+#col-skill {
+  margin: 10px;
+}
+.img-logo {
+  width: 120px;
+  height: 120px;
 }
